@@ -1,0 +1,23 @@
+# version: '3.8'
+
+services:
+
+  postgres_tel:
+    image: postgres:16
+    container_name: postgres_telecom
+    ports:
+      - "${post_port_externe}:5432"
+    env_file:
+      - ../.env
+    environment:
+          POSTGRES_USER: ${post_user}
+          POSTGRES_PASSWORD: ${post_pwd}
+          POSTGRES_DB: ${post_db_name}
+    volumes:
+      - ./DataWarehouse_data:/var/lib/postgresql/data 
+    networks:
+      - adao_telecom 
+
+
+
+    

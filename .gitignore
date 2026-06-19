@@ -1,2 +1,3 @@
 .benv/
 scraptelecom/scraptelecom/spiders/__pycache__/*
+datawarehouse/DataWarehouse_data/*

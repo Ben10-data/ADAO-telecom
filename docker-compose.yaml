@@ -1,0 +1,9 @@
+# version: "3.8"
+
+include:
+  - ./datawarehouse/docker-compose.yaml
+
+
+networks:
+    adao_telecom:
+        external: true 
