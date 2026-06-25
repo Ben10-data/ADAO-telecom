@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: telecom
+    schema: public
+
+    tables:
+      - name: comores_tel
+      - name: comores_yas
+      - name: context_pays
+      - name: mada_yas
+      - name: myt_mau
+      - name: sen_yas
+      - name: tanza_yas

@@ -15,8 +15,26 @@ services:
           POSTGRES_DB: ${post_db_name}
     volumes:
       - ./DataWarehouse_data:/var/lib/postgresql/data 
+      - ./data:/tmp:rw
     networks:
       - adao_telecom 
+
+  
+  dbt:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: dbt_telecom
+    depends_on:
+      - postgres_tel
+    volumes:
+      - ./dbt:/usr/app
+    working_dir: /usr/app
+    tty: true
+    stdin_open: true
+    networks:
+      - adao_telecom
+
 
 
 

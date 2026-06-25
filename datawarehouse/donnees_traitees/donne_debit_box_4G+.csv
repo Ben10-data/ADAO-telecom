@@ -1,0 +1,7 @@
+pays,operator,offer_name,offer_type,source_url,debit_mbps_telecharg,jours_valides,prix_original_eur,cout_mbps_eur
+Tanzania,YAS Tanzania,100 Mbps package,fixed_wireless,https://yas.co.tz/consumer/home-plans/5g-home-plan/,100,30,66.67,0.67
+Tanzania,YAS Tanzania,50 Mbps package,fixed_wireless,https://yas.co.tz/consumer/home-plans/5g-home-plan/,50,30,50.00,1.00
+Tanzania,YAS Tanzania,20 Mbps package,fixed_wireless,https://yas.co.tz/consumer/home-plans/5g-home-plan/,20,30,33.33,1.67
+Tanzania,YAS Tanzania,10 Mbps package,fixed_wireless,https://yas.co.tz/consumer/home-plans/5g-home-plan/,10,30,23.33,2.33
+Comores,Comores Telecom,Nema Net,fixed_wireless,https://www.comorestelecom.km/portail/offres/18/,20,30,48.78,2.44
+Comores,Comores Telecom,Nema Net,fixed_wireless,https://www.comorestelecom.km/portail/offres/18/,10,30,30.49,3.05

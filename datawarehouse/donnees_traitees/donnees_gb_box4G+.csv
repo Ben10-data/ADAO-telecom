@@ -1,0 +1,10 @@
+pays,operator,offer_name,offer_type,volume_original_go,validite_jours,prix_original_eur,volume_mensuel_go,prix_mensuel_eur,cout_go_eur,source_url
+Mauritius,my.t,C-Box 15GB,fixed_wireless,15.00,30,2.00,15.00,2.00,0.133,https://www.myt.mu/mobile/myt-everywhere/
+Mauritius,my.t,C-Box 300GB,fixed_wireless,300.00,30,8.00,300.00,8.00,0.027,https://www.myt.mu/mobile/myt-everywhere/
+Comores,YAS Comores,Net 5000,fixed_wireless,10.00,30,10.16,10.00,10.16,1.016,https://www.yas.km/box-yahangu/
+Mauritius,my.t,C-Box 1TB,fixed_wireless,1000.00,30,15.00,1000.00,15.00,0.015,https://www.myt.mu/mobile/myt-everywhere/
+Comores,YAS Comores,Net 10 000,fixed_wireless,20.00,30,20.33,20.00,20.33,1.017,https://www.yas.km/box-yahangu/
+Comores,Comores Telecom,Nema Net,fixed_wireless,150.00,30,30.49,150.00,30.49,0.203,https://www.comorestelecom.km/portail/offres/18/
+Comores,YAS Comores,Net 15 000,fixed_wireless,30.00,30,30.49,30.00,30.49,1.016,https://www.yas.km/box-yahangu/
+Comores,Comores Telecom,Nema Net,fixed_wireless,200.00,30,48.78,200.00,48.78,0.244,https://www.comorestelecom.km/portail/offres/18/
+Comores,YAS Comores,Net 25 000,fixed_wireless,50.00,30,50.82,50.00,50.82,1.016,https://www.yas.km/box-yahangu/

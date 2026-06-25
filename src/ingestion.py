@@ -4,9 +4,8 @@ from sqlalchemy import create_engine
 from dotenv import load_dotenv
 import os 
 
-# environnement
+# environnement BD
 load_dotenv()
-
 post_user = os.getenv("post_user")
 post_pwd = os.getenv("post_pwd")
 post_db_name = os.getenv("post_db_name")

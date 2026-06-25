@@ -1,0 +1,49 @@
+pays,operator,offer_name,offer_type,volume_original_go,validite_jours,prix_original_eur,volume_mensuel_go,prix_mensuel_eur,cout_go_eur,source_url
+Mauritius,my.t,C-Box 15GB,fixed_wireless,15.00,30,2.00,15.00,2.00,0.133,https://www.myt.mu/mobile/myt-everywhere/
+Mauritius,MY.T Mauritius,3-MONTH,mobile,1024.00,90,16.30,341.33,5.43,0.016,https://www.myt.mu/mobile/prepaid-mobile-data
+Mauritius,MY.T Mauritius,MONTHLY,mobile,200.00,30,6.30,200.00,6.30,0.032,https://www.myt.mu/mobile/prepaid-mobile-data
+Senegal,YAS Senegal,Pass 12.5 Go,mobile,12.50,30,7.62,12.50,7.62,0.610,https://www.yas.sn/particulier/mobile-plans/internet/
+Mauritius,my.t,C-Box 300GB,fixed_wireless,300.00,30,8.00,300.00,8.00,0.027,https://www.myt.mu/mobile/myt-everywhere/
+Mauritius,MY.T Mauritius,WEEKLY,mobile,35.00,7,1.90,150.00,8.14,0.054,https://www.myt.mu/mobile/prepaid-mobile-data
+Tanzania,YAS Tanzania,Data pack 24 GB,mobile,24.00,60,16.67,12.00,8.33,0.695,https://yas.co.tz/consumer/mobile-plans/internet/
+Mauritius,MY.T Mauritius,WEEKEND,mobile,20.00,2,0.56,300.00,8.40,0.028,https://www.myt.mu/mobile/prepaid-mobile-data
+Madagascar,YAS Madagascar,Fibre IN,fiber,100.00,30,9.80,100.00,9.80,0.098,https://www.yas.mg/particulier/internet-fixe/fibre/
+Mauritius,MY.T Mauritius,10M DISCOVERY,fiber,60.00,30,9.98,60.00,9.98,0.166,https://www.myt.mu/home/internet-and-tv/broadbandonly
+Comores,YAS Comores,Net 5000,fixed_wireless,10.00,30,10.16,10.00,10.16,1.016,https://www.yas.km/box-yahangu/
+Comores,YAS Comores,Net 5000,mobile,10.00,30,10.16,10.00,10.16,1.016,https://www.yas.km/particulier/mobile-plans/internet/
+Comores,Comores Telecom,Data classique,mobile,10.00,30,10.16,10.00,10.16,1.016,https://www.comorestelecom.km/portail/offres/mobile/15/
+Tanzania,YAS Tanzania,Data pack 16 GB,mobile,16.00,30,11.67,16.00,11.67,0.729,https://yas.co.tz/consumer/mobile-plans/internet/
+Madagascar,YAS Madagascar,Net Month 75000,mobile,15.00,30,15.00,15.00,15.00,1.000,https://www.yas.mg/particulier/forfaits-mobiles/internet/
+Mauritius,my.t,C-Box 1TB,fixed_wireless,1000.00,30,15.00,1000.00,15.00,0.015,https://www.myt.mu/mobile/myt-everywhere/
+Senegal,YAS Senegal,Pass 40 Go,mobile,40.00,30,15.24,40.00,15.24,0.381,https://www.yas.sn/particulier/mobile-plans/internet/
+Mauritius,MY.T Mauritius,10M,fiber,300.00,30,15.98,300.00,15.98,0.053,https://www.myt.mu/home/internet-and-tv/broadbandonly
+Madagascar,YAS Madagascar,Fibre Go,fiber,250.00,30,19.80,250.00,19.80,0.079,https://www.yas.mg/particulier/internet-fixe/fibre/
+Comores,YAS Comores,Net 10 000,mobile,20.00,30,20.33,20.00,20.33,1.017,https://www.yas.km/particulier/mobile-plans/internet/
+Comores,YAS Comores,Net 10 000,fixed_wireless,20.00,30,20.33,20.00,20.33,1.017,https://www.yas.km/box-yahangu/
+Comores,Comores Telecom,HURI INTENSE,mobile,20.00,30,20.33,20.00,20.33,1.017,https://www.comorestelecom.km/portail/offres/mobile/15/
+Mauritius,MY.T Mauritius,50Mbps,fiber,1000.00,30,22.00,1000.00,22.00,0.022,https://www.myt.mu/home/internet-and-tv/broadbandonly
+Senegal,YAS Senegal,Pass 65 Go,mobile,65.00,30,22.87,65.00,22.87,0.352,https://www.yas.sn/particulier/mobile-plans/internet/
+Mauritius,MY.T Mauritius,100Mbps,fiber,2000.00,30,24.00,2000.00,24.00,0.012,https://www.myt.mu/home/internet-and-tv/broadbandonly
+Madagascar,YAS Madagascar,Net Month 125000,mobile,29.00,30,25.00,29.00,25.00,0.862,https://www.yas.mg/particulier/forfaits-mobiles/internet/
+Madagascar,YAS Madagascar,Fibre Family,fiber,500.00,30,29.80,500.00,29.80,0.060,https://www.yas.mg/particulier/internet-fixe/fibre/
+Comores,Comores Telecom,Nema Net,fixed_wireless,150.00,30,30.49,150.00,30.49,0.203,https://www.comorestelecom.km/portail/offres/18/
+Comores,YAS Comores,Net 15 000,fixed_wireless,30.00,30,30.49,30.00,30.49,1.016,https://www.yas.km/box-yahangu/
+Comores,YAS Comores,Net 15 000,mobile,30.00,30,30.49,30.00,30.49,1.016,https://www.yas.km/particulier/mobile-plans/internet/
+Mauritius,MY.T Mauritius,200Mbps,fiber,4000.00,30,34.00,4000.00,34.00,0.009,https://www.myt.mu/home/internet-and-tv/broadbandonly
+Madagascar,YAS Madagascar,Net Month 175000,mobile,58.00,30,35.00,58.00,35.00,0.603,https://www.yas.mg/particulier/forfaits-mobiles/internet/
+Comores,YAS Comores,Yas Fibre 10Mbps Basic,fiber,200.00,30,38.62,200.00,38.62,0.193,https://www.yas.km/dagonet-fibre/
+Comores,Yas Comores,Dagonet 10 Mbps,fiber,200.00,30,38.62,200.00,38.62,0.193,https://www.yas.km/dagonet/
+Comores,Yas Comores,Dagonet Fibre,fiber,200.00,30,38.62,200.00,38.62,0.193,https://www.yas.km/dagonet/
+Madagascar,YAS Madagascar,Net Month 200000,mobile,100.00,30,40.00,100.00,40.00,0.400,https://www.yas.mg/particulier/forfaits-mobiles/internet/
+Mauritius,MY.T Mauritius,300Mbps,fiber,6000.00,30,44.00,6000.00,44.00,0.007,https://www.myt.mu/home/internet-and-tv/broadbandonly
+Comores,Comores Telecom,Nema Net,fixed_wireless,200.00,30,48.78,200.00,48.78,0.244,https://www.comorestelecom.km/portail/offres/18/
+Madagascar,YAS Madagascar,Fibre Home,fiber,15000.00,30,49.80,15000.00,49.80,0.003,https://www.yas.mg/particulier/internet-fixe/fibre/
+Comores,YAS Comores,Net 25 000,mobile,50.00,30,50.82,50.00,50.82,1.016,https://www.yas.km/particulier/mobile-plans/internet/
+Comores,YAS Comores,Net 25 000,fixed_wireless,50.00,30,50.82,50.00,50.82,1.016,https://www.yas.km/box-yahangu/
+Comores,Yas Comores,Dagonet Fibre Classique,fiber,500.00,30,59.96,500.00,59.96,0.120,https://www.yas.km/dagonet/
+Comores,YAS Comores,Yas Fibre 25 Mbps Classique,fiber,500.00,30,60.98,500.00,60.98,0.122,https://www.yas.km/dagonet-fibre/
+Mauritius,MY.T Mauritius,500Mbps,fiber,10000.00,30,70.00,10000.00,70.00,0.007,https://www.myt.mu/home/internet-and-tv/broadbandonly
+Comores,Comores Telecom,HURI INTENSE,mobile,70.00,30,71.14,70.00,71.14,1.016,https://www.comorestelecom.km/portail/offres/mobile/15/
+Mauritius,MY.T Mauritius,1Gbps,fiber,15000.00,30,94.00,15000.00,94.00,0.006,https://www.myt.mu/home/internet-and-tv/broadbandonly
+Comores,YAS Comores,Yas Fibre 40 Mbps Confort,fiber,1000.00,30,142.29,1000.00,142.29,0.142,https://www.yas.km/dagonet-fibre/
+Comores,Yas Comores,Dagonet Fibre Confort,fiber,1000.00,30,152.45,1000.00,152.45,0.152,https://www.yas.km/dagonet/

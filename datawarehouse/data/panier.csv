@@ -1,0 +1,69 @@
+pays,operator,offer_name,offer_type,volume_data_gb,price_eur,estimated_monthly_income_eur
+Comores,Comores Telecom,Data classique,mobile,10.00,10.16,122.68518518518518
+Comores,Comores Telecom,HURI FLASH,mobile,2.00,2.03,122.68518518518518
+Comores,Comores Telecom,HURI INTENSE,mobile,20.00,20.33,122.68518518518518
+Comores,Comores Telecom,HURI INTENSE,mobile,70.00,71.14,122.68518518518518
+Comores,Comores Telecom,Nema Net,fixed_wireless,150.00,30.49,122.68518518518518
+Comores,Comores Telecom,Nema Net,fixed_wireless,200.00,48.78,122.68518518518518
+Comores,Yas Comores,Dagonet Fibre,fiber,200.00,38.62,122.68518518518518
+Comores,Yas Comores,Dagonet Fibre Classique,fiber,500.00,59.96,122.68518518518518
+Comores,Yas Comores,Dagonet Fibre Confort,fiber,1000.00,152.45,122.68518518518518
+Comores,Yas Comores,Dagonet 10 Mbps,fiber,200.00,38.62,122.68518518518518
+Comores,YAS Comores,Yas Fibre 10Mbps Basic,fiber,200.00,38.62,122.68518518518518
+Comores,YAS Comores,Yas Fibre 25 Mbps Classique,fiber,500.00,60.98,122.68518518518518
+Comores,YAS Comores,Yas Fibre 40 Mbps Confort,fiber,1000.00,142.29,122.68518518518518
+Comores,YAS Comores,Net 5000,fixed_wireless,10.00,10.16,122.68518518518518
+Comores,YAS Comores,Net 10 000,fixed_wireless,20.00,20.33,122.68518518518518
+Comores,YAS Comores,Net 15 000,fixed_wireless,30.00,30.49,122.68518518518518
+Comores,YAS Comores,Net 25 000,fixed_wireless,50.00,50.82,122.68518518518518
+Comores,YAS Comores,Net 1000,mobile,2.00,2.03,122.68518518518518
+Comores,YAS Comores,Net 2000,mobile,4.00,4.07,122.68518518518518
+Comores,YAS Comores,Net 5000,mobile,10.00,10.16,122.68518518518518
+Comores,YAS Comores,Net 10 000,mobile,20.00,20.33,122.68518518518518
+Comores,YAS Comores,Net 15 000,mobile,30.00,30.49,122.68518518518518
+Comores,YAS Comores,Net 25 000,mobile,50.00,50.82,122.68518518518518
+Madagascar,YAS Madagascar,Net Week 5000,mobile,1.20,1.00,39.35185185185185
+Madagascar,YAS Madagascar,Net Week 10000,mobile,3.00,2.00,39.35185185185185
+Madagascar,YAS Madagascar,Net Month 15000,mobile,2.50,3.00,39.35185185185185
+Madagascar,YAS Madagascar,Net Month 25000,mobile,4.50,5.00,39.35185185185185
+Madagascar,YAS Madagascar,Net Month 75000,mobile,15.00,15.00,39.35185185185185
+Madagascar,YAS Madagascar,Net Month 125000,mobile,29.00,25.00,39.35185185185185
+Madagascar,YAS Madagascar,Net Month 175000,mobile,58.00,35.00,39.35185185185185
+Madagascar,YAS Madagascar,Net Month 200000,mobile,100.00,40.00,39.35185185185185
+Madagascar,YAS Madagascar,Fibre IN,fiber,100.00,9.80,39.35185185185185
+Madagascar,YAS Madagascar,Fibre Go,fiber,250.00,19.80,39.35185185185185
+Madagascar,YAS Madagascar,Fibre Family,fiber,500.00,29.80,39.35185185185185
+Madagascar,YAS Madagascar,Fibre Home,fiber,15000.00,49.80,39.35185185185185
+Mauritius,MY.T Mauritius,DAILY,mobile,7.00,0.30,1000.7685185185184
+Mauritius,MY.T Mauritius,WEEKEND,mobile,20.00,0.56,1000.7685185185184
+Mauritius,MY.T Mauritius,WEEKLY,mobile,35.00,1.90,1000.7685185185184
+Mauritius,MY.T Mauritius,MONTHLY,mobile,200.00,6.30,1000.7685185185184
+Mauritius,MY.T Mauritius,3-MONTH,mobile,1024.00,16.30,1000.7685185185184
+Mauritius,my.t,C-Box 1TB,fixed_wireless,1000.00,15.00,1000.7685185185184
+Mauritius,my.t,C-Box 300GB,fixed_wireless,300.00,8.00,1000.7685185185184
+Mauritius,my.t,C-Box 15GB,fixed_wireless,15.00,2.00,1000.7685185185184
+Mauritius,MY.T Mauritius,50Mbps,fiber,1000.00,22.00,1000.7685185185184
+Mauritius,MY.T Mauritius,100Mbps,fiber,2000.00,24.00,1000.7685185185184
+Mauritius,MY.T Mauritius,200Mbps,fiber,4000.00,34.00,1000.7685185185184
+Mauritius,MY.T Mauritius,300Mbps,fiber,6000.00,44.00,1000.7685185185184
+Mauritius,MY.T Mauritius,500Mbps,fiber,10000.00,70.00,1000.7685185185184
+Mauritius,MY.T Mauritius,1Gbps,fiber,15000.00,94.00,1000.7685185185184
+Mauritius,MY.T Mauritius,10M DISCOVERY,fiber,60.00,9.98,1000.7685185185184
+Mauritius,MY.T Mauritius,10M,fiber,300.00,15.98,1000.7685185185184
+Senegal,YAS Senegal,Pass 2 Go,mobile,2.00,0.76,129.62962962962962
+Senegal,YAS Senegal,Pass 5 Go,mobile,5.00,1.52,129.62962962962962
+Senegal,YAS Senegal,"Pass 2,5 Go",mobile,2.50,1.52,129.62962962962962
+Senegal,YAS Senegal,Pass 4 Go,mobile,4.00,2.29,129.62962962962962
+Senegal,YAS Senegal,Pass 9 Go,mobile,9.00,3.05,129.62962962962962
+Senegal,YAS Senegal,PASS 7 Go,mobile,7.00,3.05,129.62962962962962
+Senegal,YAS Senegal,Pass 12.5 Go,mobile,12.50,7.62,129.62962962962962
+Senegal,YAS Senegal,Pass 40 Go,mobile,40.00,15.24,129.62962962962962
+Senegal,YAS Senegal,Pass 65 Go,mobile,65.00,22.87,129.62962962962962
+Tanzania,YAS Tanzania,Data pack 1.4 GB,mobile,1.40,1.00,93.3611111111111
+Tanzania,YAS Tanzania,Data pack 2.4 GB,mobile,2.40,1.67,93.3611111111111
+Tanzania,YAS Tanzania,Data pack 4.8 GB,mobile,4.80,3.33,93.3611111111111
+Tanzania,YAS Tanzania,Data pack 7.2 GB,mobile,7.20,5.00,93.3611111111111
+Tanzania,YAS Tanzania,Data pack 4.8 GB,mobile,4.80,3.33,93.3611111111111
+Tanzania,YAS Tanzania,Data pack 9.6 GB,mobile,9.60,6.67,93.3611111111111
+Tanzania,YAS Tanzania,Data pack 16 GB,mobile,16.00,11.67,93.3611111111111
+Tanzania,YAS Tanzania,Data pack 24 GB,mobile,24.00,16.67,93.3611111111111
